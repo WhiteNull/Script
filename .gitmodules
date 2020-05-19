@@ -1,0 +1,3 @@
+[submodule "zzJava"]
+	path = zzJava
+	url = https://github.com/WhiteNull/zzJava.git
